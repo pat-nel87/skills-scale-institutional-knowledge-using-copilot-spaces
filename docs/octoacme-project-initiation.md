@@ -36,6 +36,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
+## Templates & References
+- [Project Kickoff Agenda Template](./octoacme-templates-and-checklists.md#project-kickoff-agenda-template)
+- [RACI-lite / Ownership Matrix](./octoacme-templates-and-checklists.md#raci-lite--ownership-matrix) — use to confirm stakeholder and role ownership at kickoff
+
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear

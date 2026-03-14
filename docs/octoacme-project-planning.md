@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Templates & References
+- [Definition of Done / Acceptance Criteria Checklist](./octoacme-templates-and-checklists.md#definition-of-done--acceptance-criteria-checklist)
+- [RACI-lite / Ownership Matrix](./octoacme-templates-and-checklists.md#raci-lite--ownership-matrix) — assign responsibilities across all roles before execution begins
