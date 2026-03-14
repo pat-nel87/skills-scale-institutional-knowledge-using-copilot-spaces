@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+> Use the [Risk Register Table Template](./octoacme-templates-and-checklists.md#risk-register-table-template) in `octoacme-templates-and-checklists.md` as a ready-to-copy starting point.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood

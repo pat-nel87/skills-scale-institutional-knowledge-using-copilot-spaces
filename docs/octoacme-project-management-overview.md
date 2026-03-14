@@ -44,3 +44,18 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Ownership & Handoffs
+Clear ownership prevents work from falling through the cracks. Here is a summary of core and expanded roles:
+
+- **Project Manager (PM):** coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** implement features, collaborate on design and testability.
+- **QA / Testing:** validate quality and acceptance criteria; own the Definition of Done.
+- **Stakeholders:** provide inputs and approvals.
+
+Expanded roles that play key parts in cross-functional delivery:
+- **UX Designer, DevOps Engineer, Security Lead, Customer Support Representative, Business Analyst**
+- Full descriptions and interaction details for all roles are in [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md).
+
+For reusable ownership matrices, kickoff agendas, risk registers, release readiness checklists, and the Definition of Done, see the canonical templates hub: [octoacme-templates-and-checklists.md](./octoacme-templates-and-checklists.md).

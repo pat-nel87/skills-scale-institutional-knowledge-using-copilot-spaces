@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Templates & References
+- [Definition of Done / Acceptance Criteria Checklist](./octoacme-templates-and-checklists.md#definition-of-done--acceptance-criteria-checklist) — apply before marking any item Done
+- [RACI-lite / Ownership Matrix](./octoacme-templates-and-checklists.md#raci-lite--ownership-matrix) — reference during sprint execution to clarify handoff ownership
